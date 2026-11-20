@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**FEAJBA/FEAJBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Alphonse 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cybersecurity & Digital Forensics Student | Aspiring SOC Analyst | Blue Team
+
+I'm a cybersecurity student passionate about security operations, threat detection, digital forensics, and understanding how attackers approach systems.
+
+My interest in cybersecurity goes beyond protecting systems. I enjoy thinking from an adversary's perspective, investigating weaknesses, understanding suspicious behaviour, and exploring how security incidents happen.
+
+I believe effective security comes from understanding both sides: how systems are protected and how they can be attacked.
+
+## Areas of Interest
+
+- Security Operations Centre (SOC)
+- Threat Detection & Threat Hunting
+- Incident Response
+- Digital Forensics
+- SIEM & Log Analysis
+- Linux and Windows Security
+- Python Security Automation
+
+##  Tools & Technologies
+
+- **SIEM:** Splunk, Wazuh, Microsoft Sentinel, Elastic
+- **Network Analysis:** Wireshark, Nmap
+- **Security Testing:** Burp Suite
+- **Operating Systems:** Linux, Windows
+- **Programming:** Python, Bash
+
+##  Featured Projects
+
+- [AlertPulse – SOC Alert Triage Engine](https://github.com/FEAJBA/alertpulse-triage-engine)
+- [LoginGuard – Brute Force Detector](https://github.com/FEAJBA/loginguard-brute-force-detector)
+- [API Honeypot – SOC Alerting](https://github.com/FEAJBA/API-honeypot-SOC-alerting)
+- [API Log Anomaly Detector](https://github.com/FEAJBA/API-Log-Anomaly-Detector)
+
+## Currently Learning
+
+- Advanced SIEM investigations
+- Threat hunting and detection engineering
+- Digital forensics and incident response
+- Security automation with Python
+
+## Career Goal
+
+Working towards becoming a skilled SOC Analyst, developing practical investigation skills and contributing to defensive security operations.
+
+---
+
+*Learning, investigating, building, and documenting one project at a time.*
