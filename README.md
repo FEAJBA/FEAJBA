@@ -125,3 +125,15 @@ Working towards becoming a skilled SOC Analyst, developing practical investigati
 ---
 
 *Learning, investigating, building, and documenting one project at a time.*
+*Learning, investigating, building, and documenting one project at a time.*
+
+<h2 align="center"> GITHUB ANALYTICS</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FEAJBA&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FEAJBA&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=FEAJBA&theme=tokyonight&hide_border=true" />
+</p>
