@@ -54,10 +54,62 @@ I believe effective security comes from understanding both sides: how systems ar
 
 ##  Featured Projects
 
-- [AlertPulse – SOC Alert Triage Engine](https://github.com/FEAJBA/alertpulse-triage-engine)
-- [LoginGuard – Brute Force Detector](https://github.com/FEAJBA/loginguard-brute-force-detector)
-- [API Honeypot – SOC Alerting](https://github.com/FEAJBA/API-honeypot-SOC-alerting)
-- [API Log Anomaly Detector](https://github.com/FEAJBA/API-Log-Anomaly-Detector)
+<h2 align="center"> FEATURED SECURITY PROJECTS</h2>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center"> AlertPulse</h3>
+<p align="center">SOC Alert Triage Engine</p>
+<p align="center">
+Automated alert processing, deduplication and risk-based prioritization.
+</p>
+<p align="center">
+<a href="https://github.com/FEAJBA/alertpulse-triage-engine">
+View Project →
+</a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center"> LoginGuard</h3>
+<p align="center">Brute Force Detection</p>
+<p align="center">
+Detecting suspicious login patterns and potential brute-force activity.
+</p>
+<p align="center">
+<a href="https://github.com/FEAJBA/loginguard-brute-force-detector">
+View Project →
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center"> API Honeypot</h3>
+<p align="center">SOC Alerting & Monitoring</p>
+<p align="center">
+Monitoring simulated malicious API interactions and generating security alerts.
+</p>
+<p align="center">
+<a href="https://github.com/FEAJBA/API-honeypot-SOC-alerting">
+View Project →
+</a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center"> API Log Anomaly Detector</h3>
+<p align="center">Suspicious Activity Detection</p>
+<p align="center">
+Identifying unusual API activity through log analysis and anomaly detection.
+</p>
+<p align="center">
+<a href="https://github.com/FEAJBA/API-Log-Anomaly-Detector">
+View Project →
+</a>
+</p>
+</td>
+</tr>
+</table>
 
 ## Currently Learning
 
