@@ -30,11 +30,27 @@ I believe effective security comes from understanding both sides: how systems ar
 
 ##  Tools & Technologies
 
-- **SIEM:** Splunk, Wazuh, Microsoft Sentinel, Elastic
-- **Network Analysis:** Wireshark, Nmap
-- **Security Testing:** Burp Suite
-- **Operating Systems:** Linux, Windows
-- **Programming:** Python, Bash
+<h2 align="center">⚡ TECHNICAL ARSENAL</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white">
+  <img src="https://img.shields.io/badge/Wazuh-1677FF?style=for-the-badge&logo=wazuh&logoColor=white">
+  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+</p>
 
 ##  Featured Projects
 
