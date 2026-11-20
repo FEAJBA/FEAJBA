@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="assets/cyber-banner.png" width="100%" alt="FEAJBA Cybersecurity Banner">
+</p>
+
+<br>
 
 # Hi, I'm Alphonse 
 
